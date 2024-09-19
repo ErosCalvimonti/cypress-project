@@ -9,5 +9,5 @@ Feature: User Registration on Open Cart
         And I fill the registration form with valid data
         And I click on "I agree" on the privacy policy 
         And I click on "Continue"
-        Then I should see a message "Your new account has been successfully created!" 
+        Then I should see a message "Congratulations! Your new account has been successfully created!" 
 

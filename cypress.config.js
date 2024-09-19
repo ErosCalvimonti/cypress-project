@@ -7,6 +7,6 @@ module.exports = defineConfig({
       on("file:preprocessor", cucumber())
     }, 
     specPattern:"./cypress/e2e/**/*.{js,jsx,ts,tsx,feature}",
-    baseUrl : "https://karielcode.wixstudio.io/ecomerce"
+    baseUrl : "https://opencart.abstracta.us/"
   }, 
 });
