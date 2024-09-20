@@ -13,8 +13,7 @@
 
 This repository contains an end-to-end (E2E) testing framework for the Open Cart e-commerce platform using Cypress and Cucumber. It provides a robust solution for automating UI tests, ensuring the reliability and functionality of the Open Cart system.
 
-[![Screenshot-2024-09-20-at-12-06-03-PM.png](https://i.postimg.cc/MGwJSrDX/Screenshot-2024-09-20-at-12-06-03-PM.png)](https://postimg.cc/pms6QC3t)
-
+[![Screenshot-2024-09-20-at-12-06-03-PM-Medium.jpg](https://i.postimg.cc/d0F3x6Zj/Screenshot-2024-09-20-at-12-06-03-PM-Medium.jpg)](https://postimg.cc/jD8RWzXD)
 
 
 ## Table of Contents
