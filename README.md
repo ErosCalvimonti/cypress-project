@@ -1,9 +1,3 @@
-# Calvimonti Eros - Software QA Engineer 🚀
-
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eroscalvimonti/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/ErosCalvimonti)
-
 # Open Cart E2E Testing Framework
 
 
@@ -110,9 +104,11 @@ Feature: User Login on Open Cart
 
 I'm always excited to collaborate on new projects or discuss the latest in QA and software testing. Feel free to reach out!
 
-- 📧 Email: [karielcode@gmail.com](mailto:karielcode@gmail.com)
-- 💼 LinkedIn: [Calvimonti Eros](https://www.linkedin.com/in/eroscalvimonti/)
-- 🐱 GitHub: [@ErosCalvimonti](https://github.com/ErosCalvimonti)
+# Calvimonti Eros - Software QA Engineer 🚀
+
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eroscalvimonti/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/ErosCalvimonti)
 
 ---
 
