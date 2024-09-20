@@ -17,7 +17,6 @@ This repository contains an end-to-end (E2E) testing framework for the Open Cart
 
 
 
-
 ## Table of Contents
 
 - [Features](#features)
