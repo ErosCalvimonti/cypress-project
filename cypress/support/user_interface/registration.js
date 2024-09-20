@@ -1,5 +1,6 @@
 const registrationPage = {
-    MyAccountDropdown: 'a[title="My Account"]',
+    myAccountDropdown: 'a[title="My Account"]',
+    dropdownButtonSesion: "li[class='dropdown open'] li:nth-child(1) a:nth-child(1)",
     selectRegistrationButton: "li[class='dropdown open'] li:nth-child(1) a:nth-child(1)",
     inputFirstName: '#input-firstname',
     inputLastName: '#input-lastname',

@@ -1,9 +1,17 @@
 {
   "validUser": {
-      "firstName": "John",
-      "lastName": "Doe",
-      "email": "john.doe@example12345.com",
-      "telephone": "123456789",
-      "password": "SecurePassword123"
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "john.doe@example123456.com",
+    "telephone": "123456789",
+    "password": "SecurePassword123"
+  },
+  "invalidUser": {
+    "firstName": "Asdasd",
+    "lastName": "Asdasd",
+    "invalidEmail": "asdasd",
+    "telephone": "asdads",
+    "invalidPassword": "pass"
   }
+
 }
